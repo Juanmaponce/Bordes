@@ -1,0 +1,10 @@
+h1  {
+    border-width: thick;    
+    border-style: dotted  ;
+    border-color: gold;
+}
+h2  {
+    border-width: 20px;
+    border-style: outset  ;
+    border-color: red;  
+}
